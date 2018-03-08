@@ -1,0 +1,1 @@
+curl -i -X POST -H 'Content-Type: application/json' -d '{"fname": "New","lname": "Item", "Email":"test@gmail.com" ,"mobile" : 9866545667}' http://rest-api.io/items
